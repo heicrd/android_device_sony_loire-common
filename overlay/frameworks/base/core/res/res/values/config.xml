@@ -74,5 +74,6 @@
     -->
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
 
-    <bool name="config_fingerprintRemoveClientOnCancel">true</bool>
+		<!-- not implemented in lineage yet -->
+    <!--<bool name="config_fingerprintRemoveClientOnCancel">true</bool>-->
 </resources>
